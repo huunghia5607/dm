@@ -28,4 +28,4 @@ jobs:
         local-dir: ./ 
 
         # Thư mục đích chính xác trên host
-        remote-dir: /www.Nghia2k4.somee.com/
+        server-dir: /www.Nghia2k4.somee.com/PhamHuuNghia/
